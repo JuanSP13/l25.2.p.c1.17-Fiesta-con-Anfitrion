@@ -27,4 +27,4 @@ if (salida)
         `${inv2.nombre} trajo ${inv2.totalProductos()} productos` + "<br>" +
         `${inv3.nombre} trajo ${inv3.totalProductos()} productos` + "<br>" +
         `${inv4.nombre} trajo ${inv4.totalProductos()} productos` + "<br>" +
-        `En total hay ${fst.totalCervezas()} cervezas y ${fst.totalHambur()} hamburguesas`;
+        `En total hay ${fst.totalCervezas()} cervezas y ${fst.totalHambur()} hamburguesas con el aporte del anfitrión`;
